@@ -1,0 +1,11 @@
+header {
+    justify-self: center;
+    padding: 2em;
+}
+
+.board-container {
+    display: flex;
+    justify-self: center;
+    border: solid darkred 0.5em;
+    border-radius: 2%;
+}
