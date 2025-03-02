@@ -9,3 +9,7 @@ header {
     border: solid darkred 0.5em;
     border-radius: 2%;
 }
+
+.pixel{
+    padding: 1em;
+}
